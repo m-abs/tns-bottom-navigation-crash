@@ -1,0 +1,26 @@
+<template lang="html">
+    <Page>
+        <ActionBar title="Overview" />
+        <ScrollView>
+            <StackLayout>
+                <Label class="title" text="Lorem ipsum..." textWrap="true"/>
+                <Label padding="16" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt augue interdum velit euismod in. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Sit amet luctus venenatis lectus magna fringilla urna. Proin nibh nisl condimentum id venenatis a. Egestas purus viverra accumsan in nisl nisi scelerisque. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Quis viverra nibh cras pulvinar mattis nunc. Amet est placerat in egestas erat imperdiet sed. Enim ut sem viverra aliquet eget sit amet tellus cras. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Eros donec ac odio tempor orci dapibus. Tellus elementum sagittis vitae et leo duis ut diam quam. Adipiscing tristique risus nec feugiat in fermentum." textWrap="true" />
+                <Label class="title" text="Lorem ipsum..." textWrap="true"/>
+                <Label padding="16" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt augue interdum velit euismod in. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Sit amet luctus venenatis lectus magna fringilla urna. Proin nibh nisl condimentum id venenatis a. Egestas purus viverra accumsan in nisl nisi scelerisque. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Quis viverra nibh cras pulvinar mattis nunc. Amet est placerat in egestas erat imperdiet sed. Enim ut sem viverra aliquet eget sit amet tellus cras. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Eros donec ac odio tempor orci dapibus. Tellus elementum sagittis vitae et leo duis ut diam quam. Adipiscing tristique risus nec feugiat in fermentum." textWrap="true" />
+                <Label class="title" text="Lorem ipsum..." textWrap="true"/>
+                <Label padding="16" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt augue interdum velit euismod in. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Sit amet luctus venenatis lectus magna fringilla urna. Proin nibh nisl condimentum id venenatis a. Egestas purus viverra accumsan in nisl nisi scelerisque. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Quis viverra nibh cras pulvinar mattis nunc. Amet est placerat in egestas erat imperdiet sed. Enim ut sem viverra aliquet eget sit amet tellus cras. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Eros donec ac odio tempor orci dapibus. Tellus elementum sagittis vitae et leo duis ut diam quam. Adipiscing tristique risus nec feugiat in fermentum." textWrap="true" />
+            </StackLayout>
+        </ScrollView>
+    </Page>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style lang="scss" scoped>
+.title {
+  background-color: #eeeeee;
+  padding: 16;
+}
+</style>
